@@ -1,4 +1,4 @@
-# HIT137
+# HIT137_Assignment2_Question2_Chapter1
 from PIL import Image
 import time
 
